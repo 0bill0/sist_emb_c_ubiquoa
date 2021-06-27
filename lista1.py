@@ -35,3 +35,4 @@ if __name__ == "__main__":
 	palavras_ordenadas = ordena_palavras(result) #q2
 	#for palavra in palavras_ordenadas:
 	#	print(palavra)
+	#ENVIADO
